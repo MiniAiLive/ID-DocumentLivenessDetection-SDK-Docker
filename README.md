@@ -5,7 +5,7 @@
 </div>
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
-Welcome to the ID Document Liveness Detection SDK! MiniAiLive's Complete Document Liveness Detection Solution for Digital Onboarding here!
+Welcome to the ID Document Liveness Detection Docker! MiniAiLive's Complete Document Liveness Detection Solution for Digital Onboarding here!
 With 70% of fraud in digital onboarding and KYC happening with document fraud—or document presentation attacks—identity verification is a critical line of defense against the financial and reputational damage of document fraud. That’s where document liveness detection software comes in. It detects when an identity document is not genuine but instead a document presentation attack.
 With our product suite, you can address the three most common presentation attacks universally across all the common types of identity documents anywhere in the world without needing to train on document templates.
 Try it out today!
@@ -21,20 +21,20 @@ Try it out today!
 - [Gradio Demo](#gradio-demo)
 - [Python Test API Example](#python-test-api-example)
 
-## ID-LivenessSDK Installation Guide
+## ID-LivenessSDK Docker Installation Guide
 
 ### Prerequisites
 
 - Python 3.6+
 - Linux
-- CPU: 2cores or more
-- RAM: 4GB or more
+- CPU: 2 cores or more
+- RAM: 8 GB or more
 
 ### Installation Steps
 
-1. **Download the ID Document Recognition Linux Server Installer:**
+1. **Download the ID Document LivenessDetection Docker Image:**
 
-   Download the Server installer for your operating system from the following link:
+   Download the Server Docker Image from the following link:
    
    [Download the On-premise Server Installer](https://drive.google.com/file/d/1f1G5ORKgg9sCBDxKZR_uPweS8hhO7Cna/view?usp=sharing)
 
