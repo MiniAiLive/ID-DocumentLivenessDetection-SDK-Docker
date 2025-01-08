@@ -36,7 +36,7 @@ Try it out today!
 
    Download the Server Docker Image from the following link:
    
-   [Download the On-premise Server Installer](https://drive.google.com/file/d/1f1G5ORKgg9sCBDxKZR_uPweS8hhO7Cna/view?usp=sharing)
+   [Download the On-premise Server Installer](https://drive.google.com/file/d/1z_fiFZXZTfkN4e9PyD3hJLgO5P9CsnbS/view?usp=sharing)
 
 2. **Install the On-premise Server:**
 
