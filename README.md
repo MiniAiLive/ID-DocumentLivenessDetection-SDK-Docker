@@ -46,7 +46,7 @@ Try it out today!
    $ sudo docker load -i MiniAiLive-IDLiveSDK-DockerImg.tar
    ```
    <div align="center">
-      <img src=https://github.com/user-attachments/assets/0854d9a4-20ae-4dfd-a0bf-49f2469d7258 alt="MiniAiLive Installer">
+      <img src=https://github.com/user-attachments/assets/883ee01e-ee21-45ac-92da-7cecaf902b54 alt="MiniAiLive Installer">
    </div>
 
    You can refer our Documentation here. https://docs.miniai.live
@@ -59,8 +59,9 @@ Try it out today!
    $ sudo ./MiRequest_IDLiveSDK request /home/ubuntu/Download/trial_key.miq
    ```
    <div align="center">
-      <img src=https://github.com/user-attachments/assets/326a1cef-98ad-49ef-83b4-caaafa26e05f alt="MiniAiLive Installer">
+      <img src=https://github.com/user-attachments/assets/2f3ca90f-5b1e-4481-8319-e3737c2fb516 alt="MiniAiLive Installer">
    </div>
+   
    Then you can see the license request file on your directory, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
 
    ```sh
@@ -69,7 +70,7 @@ Try it out today!
    $ sudo ./run_idliveness_docker /home/ubuntu/Downloads/trial_key.mis 8093 mini-idlivesdk-server
    ```
    <div align="center">
-      <img src=https://github.com/user-attachments/assets/db91f12a-3b41-4975-bd55-78584732304a alt="MiniAiLive Installer">
+      <img src=https://github.com/user-attachments/assets/325b75d8-8f3e-450d-a20e-2db685a421bb alt="MiniAiLive Installer">
    </div>
 
 4. **Verify Installation:**
@@ -80,7 +81,7 @@ Try it out today!
    ```
    If you can see opened your port correctly, the server has been installed successfully. Refer the below image.
    <div align="center">
-      <img src=https://github.com/user-attachments/assets/1abcc33c-5e70-4ee6-ba61-4f18a994f0cb alt="MiniAiLive Installer">
+      <img src=https://github.com/user-attachments/assets/66ecad16-496e-4744-aa27-57ac915442d4 alt="MiniAiLive Installer">
    </div>
 
 ## ID-LivenessSDK API Details
