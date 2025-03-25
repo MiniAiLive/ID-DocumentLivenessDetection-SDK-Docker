@@ -36,9 +36,9 @@ Try it out today!
 
    Download the Server Docker Image from the following link:
    
-   [Download the On-premise Server Installer](https://drive.google.com/file/d/1z_fiFZXZTfkN4e9PyD3hJLgO5P9CsnbS/view?usp=sharing)
+   [Download the On-premise Server Installer](https://drive.google.com/file/d/1LOOg0otEIMZc7-08ePUxWmYfMwt-YamO/view?usp=sharing)
 
-2. **Install the On-premise Server:**
+3. **Install the On-premise Server:**
 
    Run the installer and follow the on-screen instructions to complete the installation. Go to the Download folder and run this command.
    ```sh
@@ -51,7 +51,7 @@ Try it out today!
 
    You can refer our Documentation here. https://docs.miniai.live
 
-3. **Request License and Update:**
+4. **Request License and Update:**
 
    You can generate the License Request file by using this command:
    ```sh
@@ -73,7 +73,7 @@ Try it out today!
       <img src=https://github.com/user-attachments/assets/325b75d8-8f3e-450d-a20e-2db685a421bb alt="MiniAiLive Installer">
    </div>
 
-4. **Verify Installation:**
+5. **Verify Installation:**
 
    After installation, verify that the On-premise Server is correctly installed by using this command:
    ```sh
